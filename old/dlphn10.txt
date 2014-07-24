@@ -1,0 +1,784 @@
+Project Gutenberg Etext of The Cruise of the Dolphin, by Aldrich
+#3 in our series by Thomas Bailey Aldrich
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The Cruise of the Dolphin
+
+by Thomas Bailey Aldrich
+
+May, 1999  [Etext #1757]
+
+
+Project Gutenberg Etext of The Cruise of the Dolphin, by Aldrich
+******This file should be named dlphn10.txt or dlphn10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, dlphn11.txt
+VERSIONS based on separate sources get new LETTER, dlphn10a.txt
+
+
+Transcript prepared by Susan L. Farley.
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Transcript prepared by Susan L. Farley.
+
+
+
+
+
+The Cruise of the Dolphin
+
+by Thomas Bailey Aldrich
+
+
+
+
+(1 An episode from The Story of a Bad Boy, the narrator being Tom
+Bailey, the hero of the tale.)
+
+
+Every Rivermouth boy looks upon the sea as being in some way mixed
+up with his destiny. While he is yet a baby lying in his cradle, he
+hears the dull, far-off boom of the breakers; when he is older, he
+wanders by the sandy shore, watching the waves that come plunging
+up the beach like white-maned sea-horses, as Thoreau calls them;
+his eye follows the lessening sail as it fades into the blue
+horizon, and he burns for the time when he shall stand on the
+quarter-deck of his own ship, and go sailing proudly across that
+mysterious waste of waters.
+
+Then the town itself is full of hints and flavors of the sea. The
+gables and roofs of the houses facing eastward are covered with red
+rust, like the flukes of old anchors; a salty smell pervades the
+air, and dense gray fogs, the very breath of Ocean, periodically
+creep up into the quiet streets and envelop everything. The
+terrific storms that lash the coast; the kelp and spars, and
+sometimes the bodies of drowned men, tossed on shore by the
+scornful waves; the shipyards, the wharves, and the tawny fleet of
+fishing-smacks yearly fitted out at Rivermouth--these things, and a
+hundred other, feed the imagination and fill the brain of every
+healthy boy with dreams of adventure. He learns to swim almost as
+soon as he can walk; he draws in with his mother's milk the art of
+handling an oar: he is born a sailor, whatever he may turn out to
+be afterwards.
+
+To own the whole or a portion of a rowboat is his earliest
+ambition. No wonder that I, born to this life, and coming back to
+it with freshest sympathies, should have caught the prevailing
+infection. No wonder I longed to buy a part of the trim little
+sailboat Dolphin, which chanced just then to be in the market. This
+was in the latter part of May.
+
+Three shares, at five or six dollars each, I forget which, had
+already been taken by Phil Adams, Fred Langdon, and Binny Wallace.
+The fourth and remaining share hung fire. Unless a purchaser could
+be found for this, the bargain was to fall through.
+
+I am afraid I required but slight urging to join in the investment.
+I had four dollars and fifty cents on hand, and the treasurer of
+the Centipedes (1 A secret society, composed of twelve boys of the
+Temple Grammar School, Rivermouth.) advanced me the balance,
+receiving my silver pencil-case as ample security. It was a proud
+moment when I stood on the wharf with my partners, inspecting the
+Dolphin, moored at the foot of a very slippery flight of steps. She
+was painted white with a green stripe outside, and on the stern a
+yellow dolphin, with its scarlet mouth wide open, stared with a
+surprised expression at its own reflection in the water. The boat
+was a great bargain.
+
+I whirled my cap in the air, and ran to the stairs leading down
+from the wharf, when a hand was laid gently on my shoulder. I
+turned, and faced Captain Nutter (2 Tom Bailey's grandfather.) I
+never saw such an old sharp-eye as he was in those days.
+
+I knew he would not be angry with me for buying a rowboat; but I
+also knew that the little bowsprit suggesting a jib and the
+tapering mast ready for its few square feet of canvas were trifles
+not likely to meet his approval. As far as rowing on the river,
+among the wharves, was concerned, the Captain had long since
+withdrawn his decided objections, having convinced himself, by
+going out with me several times, that I could manage a pair of
+sculls as well as anybody.
+
+I was right in my surmises. He commanded me, in the most emphatic
+terms, never to go out in the Dolphin without leaving the mast in
+the boat-house. This curtailed my anticipated sport, but the
+pleasure of having a pull whenever I wanted it remained. I never
+disobeyed the Captain's orders touching the sail, though I
+sometimes extended my row beyond the points he has indicated. 
+
+The river was dangerous for sailboats. Squalls, without the
+slightest warning, were of frequent occurrence; scarcely a year
+passed that three or four persons were not drowned under the very
+windows of the town, and these, oddly enough, were generally
+seacaptains, who either did not understand the river, or lacked the
+skill to handle a small craft.
+
+A knowledge of such disasters, one of which I witnessed, consoled
+me somewhat when I saw Phil Adams skimming over the water in a
+spanking breeze with every stitch of canvas set. There were few
+better yachtsmen than Phil Adams. He usually went sailing alone,
+for both Langdon and Binny Wallace were under the same restrictions
+I was.
+
+Not long after the purchase of the boat, we planned an excursion to
+Sandpeep Island, the last of the islands in the harbor. We purposed
+to start early in the morning, and return with the tide in the
+moonlight. Our only difficulty was to obtain a whole day's
+exemption from school, the customary half-holiday not being long
+enough for our picnic. Somehow, we could not work it; but fortune
+arranged it for us. I may say here, that, whatever else I did, I
+never played truant ("hookey" we called it) in my life.
+
+One afternoon the four owners of the Dolphin exchanged significant
+glances when Mr. Grimshaw announced from the desk that there would
+be no school the following day, he having just received
+intelligence of the death of his uncle in Boston. I was sincerely
+attached to Mr. Grimshaw, but I am afraid that the death of his
+uncle did not affect me as it ought to have done.
+
+We were up before sunrise the next morning, in order to take
+advantage of the flood-tide, which waits for no man. Our
+preparations for the cruise were made the previous evening. In the
+way of eatables and drinkables, we had stored in the stern of the
+Dolphin a generous bag of hard-tack (for the chowder), a piece of
+pork to fry the cunners in, three gigantic apple pies (bought at
+Pettingil's), half a dozen lemons, and a keg of spring water--the
+last-named articles were slung over the side, to keep it cool, as
+soon as we got under way. The crockery and the bricks for our camp-
+stove we placed in the bows with the groceries, which included
+sugar, pepper, salt, and a bottle of pickles. Phil Adams
+contributed to the outfit a small tent of unbleached cotton cloth,
+under which we intended to take our nooning.
+
+We unshipped the mast, threw in an extra oar, and were ready to
+embark. I do not believe that Christopher Columbus, when he started
+on his rather successful voyage of discovery, felt half the
+responsibility and importance that weighed upon me as I sat on the
+middle seat of the Dolphin, with my oar resting in the rowlock. I
+wonder if Christopher Columbus quietly slipped out of the house
+without letting his estimable family know what he was up to?
+Charley Marden, whose father had promised to cane him if he ever
+stepped foot on sail or row boat, came down to the wharf in a sour-
+grape humor, to see us off. Nothing would tempt him to go out on
+the river in such a crazy clam-shell of a boat. He pretended that
+he did not expect to behold us alive again, and tried to throw a
+wet blanket over the expedition.
+
+"Guess you'll have a squally time of it," said Charley, casting off
+the painter. "I'll drop in at old Newbury's" (Newbury was the
+parish undertaker) "and leave word, as I go along!"
+
+"Bosh!" muttered Phil Adams, sticking the boathook into the
+string-piece of the wharf, and sending the Dolphin half a dozen
+yards toward the current.
+
+How calm and lovely the river was! Not a ripple stirred on the
+glassy surface, broken only by the sharp cutwater of our tiny
+craft. The sun, as round and red as an August moon, was by this
+time peering above the water-line.
+
+The town had drifted behind us, and we were entering among the
+group of islands. Sometimes we could almost touch with our boat-
+hook the shelving banks on either side. As we neared the mouth of
+the harbor, a little breeze now and then wrinkled the blue water,
+shook the spangles from the foliage, and gently lifted the spiral
+mist-wreaths that still clung alongshore. The measured dip of our
+oars and the drowsy twitterings of the birds seemed to mingle with,
+rather than break, the enchanted silence that reigned about us.
+
+The scent of the new clover comes back to me now, as I recall that
+delicious morning when we floated away in a fairy boat down a river
+like a dream!
+
+The sun was well up when the nose of the Dolphin nestled against
+the snow-white bosom of Sandpeep Island. This island, as I have
+said before, was the last of the cluster, one side of it being
+washed by the sea. We landed on the river-side, the sloping sands
+and quiet water affording us a good place to moor the boat.
+
+It took us an hour or more to transport our stores to the spot
+selected for the encampment. Having pitched our tent, using the
+five oars to support the canvas, we got out our lines, and went
+down the rocks seaward to fish. It was early for cunners, but we
+were lucky enough to catch as nice a mess as ever you saw. A cod
+for the chowder was not so easily secured. At last Binny Wallace
+hauled in a plump little fellow clustered all over with flaky
+silver.
+
+To skin the fish, build our fireplace, and cook the chowder kept us
+busy the next two hours.
+
+The fresh air and the exercise had given us the appetites of
+wolves, and we were about famished by the time the savory mixture
+was ready for our clam-shell saucers. 
+
+I shall not insult the rising generation on the seaboard by telling
+them how delectable is a chowder compounded and eaten in this
+Robinson Crusoe fashion. As for the boys who live inland, and know
+not of such marine feasts, my heart is full of pity for them. What
+wasted lives! Not to know the delights of a clambake, not to love
+chowder, to be ignorant of lobscouse!
+
+How happy we were, we four, sitting cross-legged in the crisp salt
+grass, with the invigorating seabreeze blowing gratefully through
+our hair! What a joyous thing was life, and how far off seemed
+death--death, that lurks in all pleasant places, and was so near!
+
+The banquet finished, Phil Adams drew from his pocket a handful of
+sweet-fern cigars; but as none of the party could indulge without
+imminent risk of becoming ill, we all, on one pretext or another,
+declined, and Phil smoked by himself.
+
+The wind had freshened by this, and we found it comfortable to put
+on the jackets which had been thrown aside in the heat of the day.
+We strolled along the beach and gathered large quantities of the
+fairy-woven Iceland moss, which at certain seasons is washed to
+these shores; then we played at ducks and drakes, and then, the sun
+being sufficiently low, we went in bathing.
+
+Before our bath was ended a slight change had come over the sky and
+sea; fleecy-white clouds scudded here and there, and a muffled moan
+from the breakers caught our ears from time to time. While we were
+dressing, a few hurried drops of rain came lisping down, and we
+adjourned to the tent to wait the passing of the squall.
+
+"We're all right, anyhow," said Phil Adams. "It won't be much of a
+blow, and we'll be as snug as a bug in a rug, here in the tent,
+particularly if we have that lemonade which some of you fellows
+were going to make.
+
+By an oversight, the lemons had been left in the boat. Binny
+Wallace volunteered to go for them.
+
+"Put an extra stone on the painter, Binny," said Adams, calling
+after him; "it would be awkward to have the Dolphin give us the
+slip and return to port minus her passengers." 
+
+"That it would," answered Binny, scrambling down the rocks.
+
+Sandpeep Island is diamond-shaped--one point running out into the
+sea, and the other looking towards the town. Our tent was on the
+river-side. Though the Dolphin was also on the same side, she lay
+out of sight by the beach at the farther extremity of the island.
+
+Binny Wallace had been absent five or six minutes when we heard him
+calling our several names in tones that indicated distress or
+surprise, we could not tell which. Our first thought was, "The boat
+has broken adrift!"
+
+We sprung to our feet and hastened down to the beach. On turning
+the bluff which hid the mooring-place from our view, we found the
+conjecture correct. Not only was the Dolphin afloat, but poor
+little Binny Wallace was standing in the bows with his arms
+stretched helplessly towards us--drifting out to sea!
+
+"Head the boat inshore!" shouted Phil Adams.
+
+Wallace ran to the tiller; but the slight cockle-shell merely swung
+round and drifted broadside on. Oh, if we had but left a single
+scull in the Dolphin!
+
+"Can you swim it?" cried Adams desperately, using his hand as a
+speaking-trumpet, for the distance between the boat and the island
+widened momently.
+
+Binny Wallace looked down at the sea, which was covered with white
+caps, and made a despairing gesture. He knew, and we knew, that the
+stoutest swimmer could not live forty seconds in those angry
+waters.
+
+A wild, insane light came into Phil Adam's eyes, as he stood knee-
+deep in the boiling surf, and for an instant I think he meditated
+plunging into the ocean after the receding boat.
+
+The sky darkened, and an ugly look stole rapidly over the broken
+surface of the sea.
+
+Binny Wallace half rose from his seat in the stern, and waved his
+hand to us in token of farewell. In spite of the distance,
+increasing every moment, we could see his face plainly. The anxious
+expression it wore at first had passed. It was pale and meek now,
+and I love to think there was a kind of halo about it, like that
+which painters place around the forehead of a saint. So he drifted
+away.
+
+The sky grew darker and darker. It was only by straining our eyes
+through the unnatural twilight that we could keep the Dolphin in
+sight. The figure of Binny Wallace was no longer visible, for the
+boat itself had dwindled to a mere white dot on the black water.
+Now we lost it, and our hearts stopped throbbing; and now the speck
+appeared again, for an instant, on the crest of a high wave.
+
+Finally it went out like a spark, and we saw it no more. Then we
+gazed at one another, and dared not speak.
+
+Absorbed in following the course of the boat, we had scarcely
+noticed the huddled inky clouds that sagged heavily all around us.
+From these threatening masses, seamed at intervals with pale
+lightning, there now burst a heavy peal of thunder that shook the
+ground under our feet. A sudden squall struck the sea, ploughing
+deep white furrows into it, and at the same instant a single
+piercing shriek rose above the tempest--the frightened cry of a
+gull swooping over the island. How it startled us!
+
+It was impossible any longer to keep our footing on the beach. The
+wind and the breakers would have swept us into the ocean if we had
+not clung to one another with the desperation of drowning men.
+Taking advantage of a momentary lull, we crawled up the sands on
+our hands and knees, and, pausing in the lee of the granite ledge
+to gain breath, returned to the camp, where we found that the gale
+had snapped all the fastenings of the tent but one. Held by this,
+the puffed-out canvas swayed in the wind like a balloon. It was a
+task of some difficulty to secure it, which we did by beating down
+the canvas with the oars.
+
+After several trials, we succeeded in setting up the tent on the
+leeward side of the ledge. Blinded by the vivid flashes of
+lightning, and drenched by the rain, which fell in torrents, we
+crept, half dead with fear and anguish, under our flimsy shelter.
+Neither the anguish nor the fear was on our own account, for we
+were comparatively safe, but for poor little Binny Wallace, driven
+out to sea in the merciless gale. We shuddered to think of him in
+that frail shell, drifting on and on to his grave, the sky rent
+with lightning over his head, and the green abysses yawning beneath
+him. We suddenly fell to crying, and cried I know not how long.
+
+Meanwhile the storm raged with augmented fury. We were obliged to
+hold on to the ropes of the tent to prevent it blowing away. The
+spray from the river leaped several yards up the rocks and clutched
+at us malignantly. The very island trembled with the concussions of
+the sea beating upon it, and at times I fancied that it had broken
+loose from its foundation and was floating off with us. The
+breakers, streaked with angry phosphorus, were fearful to look at.
+
+The wind rose higher and higher, cutting long slits in the tent,
+through which the rain poured incessantly. To complete the sum of
+our miseries, the night was at hand. It came down abruptly, at
+last, like a curtain, shutting in Sandpeep Island from all the
+world.
+
+It was a dirty night, as the sailors say. The darkness was
+something that could be felt as well as seen--it pressed down upon
+one with a cold, clammy touch. Gazing into the hollow blackness,
+all sorts of imaginable shapes seemed to start forth from vacancy--
+brilliant colors, stars, prisms, and dancing lights. What boy,
+lying awake at night, has not amused or terrified himself by
+peopling the spaces around his bed with these phenomena of his own
+eyes?
+
+"I say," whispered Fred Langdon, at last, clutching my hand, "don't
+you see things--out there--in the dark?"
+
+"Yes, yes--Binny Wallace's face!"
+
+I added to my own nervousness by making this avowal; though for the
+last ten minutes I had seen little besides that star-pale face with
+its angelic hair and brows. First a slim yellow circle, like the
+nimbus round the dark moon, took shape and grew sharp against the
+darkness; then this faded gradually, and there was the Face,
+wearing the same sad, sweet look it wore when he waved his hand to
+us across the awful water. This optical illusion kept repeating
+itself.
+
+"And I too," said Adams." I see it every now and then, outside
+there. What wouldn't I give if it really was poor little Wallace
+looking in at us! O boys, how shall we dare to go back to the town
+without him? I've wished a hundred times, since we've been sitting
+here, that I was in his place, alive or dead!"
+
+We dreaded the approach of morning as much as we longed for it. The
+morning would tell us all. Was it possible for the Dolphin to
+outride such a storm? There was a lighthouse on Mackerel Reef,
+which lay directly in the course the boat had taken when it
+disappeared. If the Dolphin had caught on this reef, perhaps Binny
+Wallace was safe. Perhaps his cries had been heard by the keeper of
+the light. The man owned a life-boat, and had rescued several
+persons. Who could tell?
+
+Such were the questions we asked ourselves again and again, as we
+lay huddled together waiting for daybreak. What an endless night it
+was! I have known months that did not seem so long.
+
+Our position was irksome rather than perilous; for the day was
+certain to bring us relief from the town, where our prolonged
+absence, together with the storm, had no doubt excited the
+liveliest alarm for our safety. But the cold, the darkness, and the
+suspense were hard to bear.
+
+Our soaked jackets had chilled us to the bone. In order to keep
+warm we lay so closely that we could hear our hearts beat above the
+tumult of sea and sky.
+
+After a while we grew very hungry, not having broken our fast since
+early in the day. The rain had turned the hard-tack into a sort of
+dough; but it was better than nothing.
+
+We used to laugh at Fred Langdon for always carrying in his pocket
+a small vial of essence of peppermint or sassafras, a few drops of
+which, sprinkled on a lump of loaf-sugar, he seemed to consider a
+great luxury. I do not know what would have become of us at this
+crisis if it had not been for that omnipresent bottle of hot stuff.
+We poured the stinging liquid over our sugar, which had kept dry in
+a sardine-box, and warmed ourselves with frequent doses.
+
+After four or five hours the rain ceased, the wind died away to a
+moan, and the sea--no longer raging like a maniac--sobbed and
+sobbed with a piteous human voice all along the coast. And well it
+might, after that night's work. Twelve sail of the Gloucester
+fishing fleet had gone down with every soul on board, just outside
+of Whale's-Back Light. Think of the wide grief that follows in the
+wake of one wreck; then think of the despairing women who wrung
+their hands and wept, the next morning, in the streets of
+Gloucester, Marblehead, and Newcastle!
+
+Though our strength was nearly spent, we were too cold to sleep.
+Once I sunk into a troubled doze, when I seemed to hear Charley
+Marden's parting words, only it was the Sea that said them. After
+that I threw off the drowsiness whenever it threatened to overcome
+me.
+
+Fred Langdon was the earliest to discover a filmy, luminous streak
+in the sky, the first glimmering of sunrise.
+
+"Look, it is nearly daybreak!"
+
+While we were following the direction of his finger, a sound of
+distant oars fell upon our ears.
+
+We listened breathlessly; and as the dip of the blades became more
+audible, we discerned two foggy lights, like will-o'-the-wisps,
+floating on the river.
+
+Running down to the water's edge, we hailed the boats with all our
+might. The call was heard, for the oars rested a moment in the
+row-locks, and then pulled in towards the island.
+
+It was two boats from the town, in the foremost of which we could
+now make out the figures of Captain Nutter and Binny Wallace's
+father. We shrunk back on seeing him.
+
+"Thank God!" cried Mr. Wallace fervently, as he leaped from the
+wherry without waiting for the bow to touch the beach.
+
+But when he saw only three boys standing on the sands, his eye
+wandered restlessly about in quest of the fourth; then a deadly
+pallor overspread his features.
+
+Our story was soon told. A solemn silence fell upon the crowd of
+rough boatmen gathered round, interrupted only by a stifled sob
+form one poor old man who stood apart from the rest.
+
+The sea was still running too high for any small boat to venture
+out; so it was arranged that the wherry should take us back to
+town, leaving the yawl, with a picked crew, to hug the island until
+daybreak, and then set forth in search of the Dolphin.
+
+Though it was barely sunrise when we reached town, there were a
+great many persons assembled at the landing eager for intelligence
+from missing boats. Two picnic parties had started down river the
+day before, just previous to the gale, and nothing had been heard
+of them. It turned out that the pleasure-seekers saw their danger
+in time, and ran ashore on one of the least exposed islands, where
+they passed the night. Shortly after our own arrival they appeared
+off Rivermouth, much to the joy of their friends, in two shattered,
+dismasted boats. 
+
+The excitement over, I was in a forlorn state, physically and
+mentally. Captain Nutter put me to bed between hot blankets, and
+sent Kitty Collins for the doctor. I was wandering in my mind, and
+fancied myself still on Sandpeep Island: now we were building our
+brick stove to cook the chowder, and, in my delirium, I laughed
+aloud and shouted to my comrades; now the sky darkened, and the
+squall struck the island; now I gave orders to Wallace how to
+manage the boat, and now I cried because the rain was pouring in on
+me through the holes in the tent. Towards evening a high fever set
+in, and it was many days before my grandfather deemed it prudent
+to tell me that the Dolphin had been found, floating keel upwards,
+four miles southeast of Mackerel Reef.
+
+Poor little Binny Wallace! How strange it seemed, when I went to
+school again, to see that empty seat in the fifth row! How gloomy
+the playground was, lacking the sunshine of his gentle, sensitive
+face! One day a folded sheet slipped from my algebra: it was the
+last note he ever wrote me. I could not read it for the tears.
+
+What a pang shot across my heart the afternoon it was whispered
+through the town that a body had been washed ashore at Grave
+Point--the place where we bathed! We bathed there no more! How well
+I remember the funeral, and what a piteous sight it was afterwards
+to see his familiar name on a small headstone in the Old South
+Burying-Ground!
+
+Poor little Binny Wallace! Always the same to me. The rest of us
+have grown up into hard, worldly men, fighting the fight of life;
+but you are forever young, and gentle, and pure; a part of my own
+childhood that time cannot wither; always a little boy, always poor
+little Binny Wallace!
+
+
+
+
+
+End of Project Gutenberg Etext of The Cruise of the Dolphin, by Aldrich
+
